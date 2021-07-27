@@ -50,5 +50,5 @@ except FileNotFoundError:
           To create one , visit this page : https://developer.spotify.com/console/get-several-tracks/
           
           Log in to your spotify Account , and then copy what's in "OAuth Token" field 
-          into a file called "token" in the root directory of the project
+          into a file called "token.txt" in the root directory of the project
           """)
