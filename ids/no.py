@@ -2,7 +2,7 @@
 This "playlist" is made from songs I don't like
 There is :
 - 25 metal songs ( Cannibal Corps )
-- 25 " I don't like " rap songs ( PNL )
+- 20 " I don't like " rap songs ( PNL )
 - 25 classical songs ( https://open.spotify.com/playlist/1h0CEZCm6IbFTbxThn6Xcs?si=933db0752a684db0 )
 - 25 Disco songs ( https://open.spotify.com/playlist/2rkU3Aop33atDJoF8LCCjh?si=5e1247ee29284f0a )
 
