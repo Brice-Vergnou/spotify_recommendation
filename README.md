@@ -79,9 +79,9 @@ According to the figures , I'm very likely...
     * with high amount of beats
     * slightly positive 
 * To dislike ... songs :
-    * not very accoustic
-    * with low instrumentalness
-    * short 
+    * accoustic
+    * with high instrumentalness
+    * long 
 
 ## 4. Modelling
 
