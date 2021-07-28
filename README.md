@@ -1,5 +1,10 @@
 # Spotify Recommandation
 
+Build a model that can predict wether I like a song or not
+
+### Context
+
+
 I am basically a HUGE fan of music ( mostly French rap though with some exceptions but I love music ). And someday , while browsing stuff on Internet , I found the [Spotify's API](https://developer.spotify.com/documentation/web-api/) . I knew I had to use it when I found out you could get information like danceability about your favorite songs just with their id's.
 
 ![image](https://user-images.githubusercontent.com/86613710/127216769-745ac143-7456-4464-bbe3-adc53872c133.png)
