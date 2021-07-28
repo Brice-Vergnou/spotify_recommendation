@@ -22,8 +22,8 @@ except:
     pickle.dump(model, open("model/model.sav", 'wb'))
 try :
     with open("token.txt","r") as f:
-        token = f.read()
-        query = input("\n\n\nName of the track and artist ( be careful the database is somewhat capricious ) : ")
+        token = f.read().replace("\n","")
+    query = input("\n\n\nName of the track and artist ( be careful the database is somewhat capricious ) : ")
 
     query = urllib.parse.quote(query)
     stream = os.popen(f'curl -X "GET" "https://api.spotify.com/v1/search?q={query}&type=track" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer {token}"')
