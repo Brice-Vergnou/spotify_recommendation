@@ -1,4 +1,4 @@
-# Spotify Recommandation
+# Spotify Recommendation
 
 Build a model that can predict wether I like a song or not
 
